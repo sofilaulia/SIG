@@ -1,0 +1,327 @@
+{
+    "3201": [
+        {
+            "nama": "terminal cibinong",
+            "latitude": "-6.467610",
+            "longitude": "106.854281"
+        },
+        {
+            "nama": "terminal cimulang",
+            "latitude": "-6.526064",
+            "longitude": "106.715047"
+        }
+    ],
+    "3202": [
+        {
+            "nama": "terminal sukaraja",
+            "latitude": "-6.918087",
+            "longitude": "106.959453"
+        },
+        {
+            "nama": "terminal sukabumi",
+            "latitude": "-6.92047",
+            "longitude": "106.91790"
+        }
+    ],
+    "3203": [
+        {
+            "nama": "terminal cianjur",
+            "latitude": "-6.795492",
+            "longitude": "107.155178"
+        },
+        {
+            "nama": "terminal rawabango",
+            "latitude": "-6.802681",
+            "longitude": "107.174799"
+        },
+        {
+            "nama": "terminal jebrod",
+            "latitude": "-6.846569",
+            "longitude": "107.131158"
+        }
+    ],
+    "3204": [
+        {
+            "nama": "terminal GBA",
+            "latitude": "-6.971691",
+            "longitude": "107.654695"
+        },
+        {
+            "nama": "terminal bunijaya",
+            "latitude": "-7.009529",
+            "longitude": "107.275802"
+        }
+    ],
+    "3205": [
+        {
+            "nama": "terminal garut",
+            "latitude": "-7.200318",
+            "longitude": "107.905862"
+        },
+        {
+            "nama": "terminal cikajang",
+            "latitude": "-7.360680",
+            "longitude": "107.812090"
+        },
+        {
+            "nama": "terminal libangan",
+            "latitude": "-7.039082",
+            "longitude": "107.975190"
+        }
+    ],
+    "3206": [
+        {
+            "nama": "terminal rajapolah",
+            "latitude": "-7.201993",
+            "longitude": "108.194887"
+        },
+        {
+            "nama": "terminal indihiang tasikmalaya",
+            "latitude": "-7.291671",
+            "longitude": "108.191343"
+        }
+    ],
+    "3207": [
+        {
+            "nama": "terminal ciamis",
+            "latitude": "-7.332468",
+            "longitude": "108.357477"
+        }
+    ],
+    "3208": [
+        {
+            "nama": "terminal Kuningan",
+            "latitude": "-6.972742",
+            "longitude": "108.525209"
+        },
+        {
+            "nama": "terminal lengkong",
+            "latitude": "-6.99659",
+            "longitude": "108.52576"
+        },
+        {
+            "nama": "terminal cirendang",
+            "latitude": "-6.95251",
+            "longitude": "108.48867"
+        }
+    ],
+    "3209": [
+        {
+            "nama": "terminal kalijungjung",
+            "latitude": "-6.73968",
+            "longitude": "108.55294"
+        }
+    ],
+    "3210": [
+        {
+            "nama": "terminal cikijing",
+            "latitude": "-7.019488",
+            "longitude": "108.369023"
+        },
+        {
+            "nama": "terminal maja",
+            "latitude": "-6.891334",
+            "longitude": "108.305900"
+        },
+        {
+            "nama": "terminal bantarujeg",
+            "latitude": "-6.967438",
+            "longitude": "108.240993"
+        }
+    ],
+    "3211": [
+        {
+            "nama": "terminal bus ciakar",
+            "latitude": "-6.825762",
+            "longitude": "107.921360"
+        },
+        {
+            "nama": "bus station",
+            "latitude": "-6.862517",
+            "longitude": "107.909324"
+        },
+        {
+            "nama": "terminal cipamengpeuk",
+            "latitude": "-6.858988",
+            "longitude": "107.924452"
+        }
+    ],
+    "3212": [
+        {
+            "nama": "terminal bus indramayu",
+            "latitude": "-6.273421",
+            "longitude": "108.333521"
+        },
+        {
+            "nama": "terminal bus haurgeulis",
+            "latitude": "-6.394362",
+            "longitude": "107.947117"
+        },
+        {
+            "nama": "terminal sindang",
+            "latitude": "-6.353994",
+            "longitude": "108.309597"
+        }
+    ],
+    "3213": [
+        {
+            "nama": "terminal subang",
+            "latitude": "-6.549362",
+            "longitude": "107.769845"
+        }
+    ],
+    "3214": [
+        {
+            "nama": "terminal wanayasa",
+            "latitude": "-6.681149",
+            "longitude": "107.556343"
+        },
+        {
+            "nama": "terminal simpang",
+            "latitude": "-6.565969",
+            "longitude": "107.451826"
+        },
+        {
+            "nama": "terminal ciganea",
+            "latitude": "-6.561941892074358", 
+            "longitude": "107.43033432234974"
+        }
+    ],
+    "3215": [
+        {
+            "nama": "terminal bojong",
+            "latitude": "-6.308483",
+            "longitude": "107.307633"
+        },
+        {
+            "nama": "terminal cikampek",
+            "latitude": "-6.40930",
+            "longitude": "107.46133"
+        }
+    ],
+    "3216": [
+        {
+            "nama": "terminal cikarang",
+            "latitude": "-6.262218",
+            "longitude": "107.137944"
+        },
+        {
+            "nama": "terminal bekasi",
+            "latitude": "-6.249197",
+            "longitude": "107.013389"
+        }
+    ],
+    "3217": [
+        {
+            "nama": "terminal sindangkerta", 
+            "latitude": "-6.991536",
+            "longitude": "107.403546"
+        },
+        {
+            "nama": "terminal cililin",
+            "latitude": "-6.951552",
+            "longitude": "107.457796"
+        },
+        {
+            "nama": "terminal cipatik",
+            "latitude": "-6.940009",
+            "longitude": "107.512446"
+        }
+    ],
+    "3218": [
+        {
+            "nama": "terminal pangandaran",
+            "latitude": "-7.684192",
+            "longitude": "108.652210"
+        },
+        {
+            "nama": "terminal rawabango",
+            "latitude": "-6.802681",
+            "longitude": "107.174803"
+        },
+        {
+            "nama": "terminal cijulang",
+            "latitude": "-7.729821",
+            "longitude": "108.474069"
+        }
+    ],
+    "3271": [
+        {
+            "nama": "Terminal merdeka",
+            "latitude": "-6.59274",
+            "longitude": "106.78626"
+        }
+    ],
+    "3272": [
+        {
+            "nama": "Terminal sukabumi",
+            "latitude": "-6.951016",
+            "longitude": "106.924512"
+        }
+    ],
+    "3273": [
+        {
+            "nama": "Terminal leuwipanjang",
+            "latitude": "-6.946291",
+            "longitude": "107.594732"
+        },
+        {
+            "nama": "terminal cicaheum",
+            "latitude": "-6.902280",
+            "longitude": "107.656318"
+        }
+    ],
+    "3274": [
+        {
+            "nama": "Terminal cirebon",
+            "latitude": "-6.740316",
+            "longitude": "108.552981"
+        }
+    ],
+    "3275": [
+        {
+            "nama": "Terminal bekasi",
+            "latitude": "-6.249438",
+            "longitude": "107.014049"
+        }
+    ],
+    "3276": [
+        {
+            "nama": "Terminal depok terpadu",
+            "latitude": "-6.391606",
+            "longitude": "106.824659"
+        },
+        {
+            "nama": "terminal depok baru",
+            "latitude": "-6.391054",
+            "longitude": "106.822510"
+        },
+        {
+            "nama": "Terminal Jatijajar",
+            "latitude": "-6.426700137219573",
+            "longitude": "106.85669863988288"
+        }
+        
+    ],
+    "3277": [
+        {
+            "nama": "Terminal cimahi",
+            "latitude": "-6.880801",
+            "longitude": "107.537987"
+        }
+    ],
+    "3278": [
+        {
+            "nama": "Terminal pasar cikurubuk",
+            "latitude": "-7.340565",
+            "longitude": "108.202631"
+        }
+    ],
+    "3279": [
+        {
+            "nama": "terminal bus banjar",
+            "latitude": "-7.36382",
+            "longitude": "108.50773"
+        }
+    ]
+}

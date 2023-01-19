@@ -1,0 +1,270 @@
+{
+    "3201": [
+        {
+            "nama": "Stasiun Bogor",
+            "latitude": "-6.595501069953851",
+            "longitude": "106.7904356552254"
+        },
+        {
+            "nama": "Stasiun Cilebut",
+            "latitude": "-6.530079733008184",
+            "longitude": "106.800453017848"
+        },
+        {
+            "nama": "Stasiun Citayam",
+            "latitude": "-6.4483362784349465",
+            "longitude": "106.80230152234542"
+        }
+    ],
+    "3202": [
+        {
+            "nama": "Stasiun Cibadak",
+            "latitude": "-6.888016967047966",
+            "longitude": "106.7803370822143"
+        },
+        {
+            "nama": "Stasiun Cicurug",
+            "latitude": "-6.790291084257999",
+            "longitude": "106.77955489755554"
+        },
+        {
+            "nama": "Stasiun Cisaat",
+            "latitude": "-6.913808280265463",
+            "longitude": "106.887429895708"
+        }
+    ],
+    "3203": [
+        {
+            "nama": "Stasiun Cianjur",
+            "latitude": "-6.824350632992868",
+            "longitude": "107.14266362454295"
+        },
+        {
+            "nama": "Stasiun Cibeber",
+            "latitude": "-6.937396838425368",
+            "longitude": "107.1211646398854"
+        }
+    ],
+    "3204": [
+        {
+            "nama": "Stasiun Nagreg",
+            "latitude": "-7.0180722097792785",
+            "longitude": "107.88621979538112"
+        },
+        {
+            "nama": "Stasiun Cicalengka",
+            "latitude": "-6.981165068362269",
+            "longitude": "107.83289951289814"
+        }
+    ],
+    "3205": [
+        {
+            "nama": "Stasiun Bumiwaluya",
+            "latitude": "-7.058433634496823",
+            "longitude": "108.07055999755683"
+        },
+        {
+            "nama": "Stasiun Cibatu",
+            "latitude": "-7.10009",
+            "longitude": "107.97943"
+        },
+        {
+            "nama": "Stasiun Garut",
+            "latitude": "-7.21355",
+            "longitude": "107.90357"
+        }
+    ],
+    "3206": [
+        {
+            "nama": "Stasiun Rajapolah",
+            "latitude": "-7.219427",
+            "longitude": "108.191173"
+        }
+    ],
+    "3207": [
+        {
+            "nama": "Stasiun Ciamis",
+            "latitude": "-7.329041",
+            "longitude": "108.356147"
+        }
+    ],
+    "3208": [],
+    "3209": [
+        {
+            "nama": "Stasiun Cirebon Kejaksaan",
+            "latitude": "-6.70531",
+            "longitude": "108.55557"
+        }
+    ],
+    "3210": [
+        {
+            "nama": "BMKG Stasiun Meteorologi Kertajati-Majalengka",
+            "latitude": "-6.73437",
+            "longitude": "108.26326"
+        }
+    ],
+    "3211": [
+        {
+            "nama": "Stasiun Cimekar",
+            "latitude": "-6.94960",
+            "longitude": "107.71444"
+        },
+        {
+            "nama": "Stasiun Rancaekek",
+            "latitude": "-6.964962",
+            "longitude": "107.755863"
+        }
+    ],
+    "3212": [
+        {
+            "nama": "Stasiun Jatibarang",
+            "latitude": "-6.472909",
+            "longitude": "108.306189"
+        }
+    ],
+    "3213": [
+        {
+            "nama": "Stasiun Cikaum",
+            "latitude": "-6.43556",
+            "longitude": "107.73962"
+        },
+        {
+            "nama": "Stasiun Pegaden Baru",
+            "latitude": "-6.453743",
+            "longitude": "107.817094"
+        }
+    ],
+    "3214": [
+        {
+            "nama": "Stasiun Purwakarta",
+            "latitude": "-6.552561",
+            "longitude": "107.446503"
+        }
+    ],
+    "3215": [
+        {
+            "nama": "Stasiun Karawang",
+            "latitude": "-6.30529",
+            "longitude": "107.30021"
+        },
+        {
+            "nama": "Stasiun Cikampek",
+            "latitude": "-6.40606",
+            "longitude": "107.45901"
+        }
+    ],
+    "3216": [
+        {
+            "nama": "Stasiun Cikarang",
+            "latitude": "-6.255306",
+            "longitude": "107.145125"
+        }
+    ],
+    "3217": [
+        {
+            "nama": "Stasiun Sasaksaat",
+            "latitude": "-6.78016",
+            "longitude": "107.43215"
+        },
+        {
+            "nama": "stasiun Cikadongdong",
+            "latitude": "-6.715651",
+            "longitude": "107.390780"
+        },
+        {
+            "nama": "Stasiun Cipatat",
+            "latitude": "-6.822057",
+            "longitude": "107.386041"
+        }
+    ],
+    "3218": [
+        {
+            "nama": "Stasiun Pangandaran",
+            "latitude": "-7.680898",
+            "longitude": "108.650538"
+        }
+    ],
+    "3271": [
+        {
+            "nama": "Stasiun Bogor Kota",
+            "latitude": "-6.59004",
+            "longitude": "106.78586"
+        }
+    ],
+    "3272": [
+        {
+            "nama": "Stasiun Sukabumi",
+            "latitude": "-6.92500",
+            "longitude": "106.92961"
+        }
+    ],
+    "3273": [
+        {
+            "nama": "Stasiun Bandung",
+            "latitude": "-6.912642",
+            "longitude": "107.602933"
+        },
+        {
+            "nama": "Stasiun Padalarang",
+            "latitude": "-6.84295",
+            "longitude": "107.49730"
+        }
+    ],
+    "3274": [
+        {
+            "nama": "Stasiun Cirebon",
+            "latitude": "-6.70524",
+            "longitude": "108.55561"
+        }
+    ],
+    "3275": [
+        {
+            "nama": "Stasiun Bekasi",
+            "latitude": "-6.236450",
+            "longitude": "106.999128"
+        },
+        {
+            "nama": "Stasiun Kranji",
+            "latitude": "-6.224507",
+            "longitude": "106.979847"
+        }
+    ],
+    "3276": [
+        {
+            "nama": "Stasiun Depok Lama",
+            "latitude": "-6.405167981809376",
+            "longitude": "106.81796813988282"
+        },
+        {
+            "nama": "Stasiun Depok Baru",
+            "latitude": "-6.3908654278116215",
+            "longitude": "106.82166291289535"
+        }
+    ],
+    "3277": [
+        {
+            "nama": "Stasiun Cimahi",
+            "latitude": "-6.88567",
+            "longitude": "107.53613"
+        }
+    ],
+    "3278": [
+        {
+            "nama": "Stasiun Tasikmalaya",
+            "latitude": "-7.322355",
+            "longitude": "108.223736"
+        },
+        {
+            "nama": "Stasiun Indihiang Tasikmalaya",
+            "latitude": "-7.28678",
+            "longitude": "108.20083"
+        }
+    ],
+    "3279": [
+        {
+            "nama": "Stasiun Banjar",
+            "latitude": "-6.88567",
+            "longitude": "107.53613"
+        }
+    ]
+}
